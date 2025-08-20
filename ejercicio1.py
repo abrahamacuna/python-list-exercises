@@ -12,6 +12,6 @@ amigos()
 
 print('')
 
-print("Mis 5 mejores amigos son:")
+print("Mis 5 mejores amigos son o eran:")
 for n in lista_amigos:
     print("·", n)
